@@ -19,7 +19,6 @@ I'm a full time software developer from Birmingham, Alabama. I like working on s
 that that I find useful for myself. Feel free to reach out and [connect](https://www.linkedin.com/in/jose-garcia-becerra/)!
 
 <div align="right">
-### Now Playing - Spotify 🎧
   <picture>
     <img width="50%" src="https://spotify-github-profile.vercel.app/api/view?uid=fz95p8aqixmmx3zcek86ncoos&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=d5a3f9&bar_color_cover=true">
   </picture>
