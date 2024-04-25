@@ -19,18 +19,14 @@ I'm a full time software developer from Birmingham, Alabama. I like working on s
 that that I find useful for myself. Feel free to reach out and [connect](https://www.linkedin.com/in/jose-garcia-becerra/)!
 
 <div>
-  <span>- 🔭 I’m currently working on a personal website.</span>
-  <span>- 🌱 I’m currently learning more about website design!</span>
-  <span>- ⚡ Fun fact: I enjoy watching anime and PC gaming</span>
+  <span>- 🔭 I’m currently working on a personal website.\n</span>
+  <span>- 🌱 I’m currently learning more about website design!\n</span>
+  <span>- ⚡ Fun fact: I enjoy watching anime and PC gaming.\n</span>
   <picture>
     <span align"center">Here's what im listening to!</span>
     <img align="right" width="50%" src="https://spotify-github-profile.vercel.app/api/view?uid=fz95p8aqixmmx3zcek86ncoos&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=d5a3f9&bar_color_cover=true">
 </picture>
 </div>
-
-- 🔭 I’m currently working on a personal website.
-- 🌱 I’m currently learning more about website design!
-- ⚡ Fun fact: I enjoy watching anime and PC gaming
 
 ---
 
