@@ -23,9 +23,8 @@ that that I find useful for myself. Feel free to reach out and [connect](https:/
   <p>- 🌱 I’m currently learning more about website design!\n</p>
   <p>- ⚡ Fun fact: I enjoy watching anime and PC gaming.\n</p>
   <picture>
-    <p>Here's what im listening to!</p>
     <img align="right" width="50%" src="https://spotify-github-profile.vercel.app/api/view?uid=fz95p8aqixmmx3zcek86ncoos&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=d5a3f9&bar_color_cover=true">
-</picture>
+  </picture>
 </div>
 
 ---
